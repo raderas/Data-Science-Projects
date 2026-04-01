@@ -1,3 +1,3 @@
 # Data-Science-Projects
 
-My personal repo for my Data Science related projects.
+Personal repo to share Data Science, AI/ML related projects for exploring concepts and learning.
